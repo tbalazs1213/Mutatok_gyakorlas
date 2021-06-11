@@ -41,6 +41,6 @@ int main()
   {
     kiiras(h+i);
   }
-	delete[] h;
+  delete[] h;
   return 0;
 }
